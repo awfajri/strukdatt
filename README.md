@@ -1,4 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://id.linkedin.com/in/auf-fajri-ramadhani-556528274">Auf Fajri Ramadhani</a></h1>
+<p>ini repository struktur data</p>
 <div align="center">
 
 [![jasineri/gitartwork](gitartwork.svg)](https://github.com/awfajri/strukdatt)
